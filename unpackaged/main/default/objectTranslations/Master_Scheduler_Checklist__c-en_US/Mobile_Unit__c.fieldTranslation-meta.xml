@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Mobile Unit --></label>
+        <name>Mobile_Unit__c</name>
+        <picklistValues>
+            <masterLabel>Berkshire</masterLabel>
+            <translation><!-- Berkshire --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mega Trailer</masterLabel>
+            <translation><!-- Mega Trailer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>N/A</masterLabel>
+            <translation><!-- N/A --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>POD</masterLabel>
+            <translation><!-- POD --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

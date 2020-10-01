@@ -1,0 +1,7 @@
+Hey Team, 
+
+We have a new State Dentist! 
+
+Name:{!Lead.Name} 
+State: {!Lead.State}
+Link: {!Lead.Link}

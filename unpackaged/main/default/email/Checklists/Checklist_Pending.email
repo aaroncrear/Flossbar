@@ -1,0 +1,8 @@
+Hello,
+
+The following Master Scheduler Checklist in pending:
+
+Account: {!Master_Scheduler_Checklist__c.Account__c}
+Opportunity Owner: {!Master_Scheduler_Checklist__c.Opportunity_Owner__c}
+Checklist Type: {!Master_Scheduler_Checklist__c.RecordType}
+Link: {!Master_Scheduler_Checklist__c.Link}

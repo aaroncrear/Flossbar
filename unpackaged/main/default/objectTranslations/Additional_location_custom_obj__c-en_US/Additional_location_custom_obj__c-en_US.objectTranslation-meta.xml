@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Additional Location CUSTOM OBJ</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Additional Location CUSTOM OBJ</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- Additional Location Field Set --></label>
+        <name>Additional_Location_Field_Set</name>
+    </fieldSets>
+    <recordTypes>
+        <label><!-- Add address TEST --></label>
+        <name>Add_address_TEST</name>
+    </recordTypes>
+    <startsWith>Vowel</startsWith>
+</CustomObjectTranslation>

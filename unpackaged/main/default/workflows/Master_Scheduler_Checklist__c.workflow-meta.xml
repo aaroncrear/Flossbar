@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?><Workflow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <alerts>
+        <fullName>Checklist_Pending</fullName>
+        <description>Checklist Pending</description>
+        <protected>false</protected>
+        <recipients>
+            <recipient>chris.donovan@medbar.com</recipient>
+            <type>user</type>
+        </recipients>
+        <recipients>
+            <recipient>douglas.shortt@flossbar.com</recipient>
+            <type>user</type>
+        </recipients>
+        <senderType>CurrentUser</senderType>
+        <template>Checklists/Checklist_Pending</template>
+    </alerts>
+    <alerts>
+        <fullName>Event_Cancelled</fullName>
+        <description>Event Cancelled</description>
+        <protected>false</protected>
+        <recipients>
+            <recipient>douglas.shortt@flossbar.com</recipient>
+            <type>user</type>
+        </recipients>
+        <senderType>CurrentUser</senderType>
+        <template>Checklists/Event_Cancelled</template>
+    </alerts>
+    <alerts>
+        <fullName>Event_Completed</fullName>
+        <description>Event Completed</description>
+        <protected>false</protected>
+        <recipients>
+            <recipient>douglas.shortt@flossbar.com</recipient>
+            <type>user</type>
+        </recipients>
+        <senderType>CurrentUser</senderType>
+        <template>Checklists/Event_Completed</template>
+    </alerts>
+    <alerts>
+        <fullName>Missing_Information</fullName>
+        <description>Missing Information</description>
+        <protected>false</protected>
+        <recipients>
+            <field>Opportunity_Owner__c</field>
+            <type>userLookup</type>
+        </recipients>
+        <senderType>CurrentUser</senderType>
+        <template>Checklists/Missing_Information</template>
+    </alerts>
+    <alerts>
+        <fullName>New_Brick_and_Mortar</fullName>
+        <description>New Brick and Mortar</description>
+        <protected>false</protected>
+        <recipients>
+            <recipient>chris.donovan@medbar.com</recipient>
+            <type>user</type>
+        </recipients>
+        <recipients>
+            <recipient>douglas.shortt@flossbar.com</recipient>
+            <type>user</type>
+        </recipients>
+        <senderType>CurrentUser</senderType>
+        <template>Checklists/New_Brick_and_Mortar</template>
+    </alerts>
+    <alerts>
+        <fullName>New_Event</fullName>
+        <description>New Event</description>
+        <protected>false</protected>
+        <recipients>
+            <recipient>chris.donovan@medbar.com</recipient>
+            <type>user</type>
+        </recipients>
+        <recipients>
+            <recipient>douglas.shortt@flossbar.com</recipient>
+            <type>user</type>
+        </recipients>
+        <senderType>CurrentUser</senderType>
+        <template>Checklists/New_Event</template>
+    </alerts>
+</Workflow>

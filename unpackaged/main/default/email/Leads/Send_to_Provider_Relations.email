@@ -1,0 +1,10 @@
+Hey Team, 
+
+This Lead is interested in helping with events. Please call. 
+
+Company:{!Lead.Company}
+Name: {!Lead.Name}
+Notes: {!Lead.Closed_Forwarded_Notes__c}
+Link: {!Lead.Link}
+
+Thank you

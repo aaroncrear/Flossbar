@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Anthem Inc.</fullName>
+        <default>false</default>
+        <label>Anthem Inc.</label>
+    </customValue>
+    <customValue>
+        <fullName>Blue Cross Blue Shield of Massachusetts</fullName>
+        <default>false</default>
+        <label>Blue Cross Blue Shield of Massachusetts</label>
+    </customValue>
+    <customValue>
+        <fullName>Blue Cross Blue Shield of Michigan</fullName>
+        <default>false</default>
+        <label>Blue Cross Blue Shield of Michigan</label>
+    </customValue>
+    <customValue>
+        <fullName>Blue Cross Blue Shield of New Jersey</fullName>
+        <default>false</default>
+        <label>Blue Cross Blue Shield of New Jersey</label>
+    </customValue>
+    <customValue>
+        <fullName>Blue Cross Blue Shield of North Carolina</fullName>
+        <default>false</default>
+        <label>Blue Cross Blue Shield of North Carolina</label>
+    </customValue>
+    <customValue>
+        <fullName>Blue Cross Blue Shield of Tennessee</fullName>
+        <default>false</default>
+        <label>Blue Cross Blue Shield of Tennessee</label>
+    </customValue>
+    <customValue>
+        <fullName>Blue Cross of California</fullName>
+        <default>false</default>
+        <label>Blue Cross of California</label>
+    </customValue>
+    <customValue>
+        <fullName>California Physicians Service</fullName>
+        <default>false</default>
+        <label>California Physicians Service</label>
+    </customValue>
+    <customValue>
+        <fullName>Carefirst Inc.</fullName>
+        <default>false</default>
+        <label>Carefirst Inc.</label>
+    </customValue>
+    <customValue>
+        <fullName>Caresource</fullName>
+        <default>false</default>
+        <label>Caresource</label>
+    </customValue>
+    <customValue>
+        <fullName>Centene Corp</fullName>
+        <default>false</default>
+        <label>Centene Corp</label>
+    </customValue>
+    <customValue>
+        <fullName>Cigna Health</fullName>
+        <default>false</default>
+        <label>Cigna Health</label>
+    </customValue>
+    <customValue>
+        <fullName>CVS</fullName>
+        <default>false</default>
+        <label>CVS</label>
+    </customValue>
+    <customValue>
+        <fullName>Guidewell Mut Holding</fullName>
+        <default>false</default>
+        <label>Guidewell Mut Holding</label>
+    </customValue>
+    <customValue>
+        <fullName>Health Care Service Corporation (HCSC)</fullName>
+        <default>false</default>
+        <label>Health Care Service Corporation (HCSC)</label>
+    </customValue>
+    <customValue>
+        <fullName>Health Net of California, Inc.</fullName>
+        <default>false</default>
+        <label>Health Net of California, Inc.</label>
+    </customValue>
+    <customValue>
+        <fullName>Highmark Group</fullName>
+        <default>false</default>
+        <label>Highmark Group</label>
+    </customValue>
+    <customValue>
+        <fullName>Humana</fullName>
+        <default>false</default>
+        <label>Humana</label>
+    </customValue>
+    <customValue>
+        <fullName>Independence Health Group Inc.</fullName>
+        <default>false</default>
+        <label>Independence Health Group Inc.</label>
+    </customValue>
+    <customValue>
+        <fullName>Kaiser Foundation</fullName>
+        <default>false</default>
+        <label>Kaiser Foundation</label>
+    </customValue>
+    <customValue>
+        <fullName>Metropolitan</fullName>
+        <default>false</default>
+        <label>Metropolitan</label>
+    </customValue>
+    <customValue>
+        <fullName>Molina Healthcare Inc.</fullName>
+        <default>false</default>
+        <label>Molina Healthcare Inc.</label>
+    </customValue>
+    <customValue>
+        <fullName>UnitedHealth</fullName>
+        <default>false</default>
+        <label>UnitedHealth</label>
+    </customValue>
+    <customValue>
+        <fullName>UPMC Health System</fullName>
+        <default>false</default>
+        <label>UPMC Health System</label>
+    </customValue>
+    <customValue>
+        <fullName>Wellcare</fullName>
+        <default>false</default>
+        <label>Wellcare</label>
+    </customValue>
+    <masterLabel>Insurance Association(s)</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

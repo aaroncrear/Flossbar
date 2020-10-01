@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>EIN__c</fullName>
+    <description>An Employer Identification Number (EIN), also known as a Federal Tax Identification Number, is a nine-digit number used to identify a business entity for tax ID purposes.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>An Employer Identification Number (EIN), also known as a Federal Tax Identification Number, is a nine-digit number used to identify a business entity for tax ID purposes.</inlineHelpText>
+    <label>EIN</label>
+    <precision>9</precision>
+    <required>false</required>
+    <scale>0</scale>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Number</type>
+    <unique>false</unique>
+</CustomField>

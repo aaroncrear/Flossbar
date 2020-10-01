@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Master Scheduler Checklist</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Master Scheduler Checklists</value>
+    </caseValues>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <layouts>
+        <layout>Brick and Mortar</layout>
+        <sections>
+            <label><!-- Additional Details --></label>
+            <section>Additional Details</section>
+        </sections>
+        <sections>
+            <label><!-- Billing Information --></label>
+            <section>Billing Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Logistics --></label>
+            <section>Logistics</section>
+        </sections>
+        <sections>
+            <label><!-- Times Open for Testing --></label>
+            <section>Times Open for Testing</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Event</layout>
+        <sections>
+            <label><!-- Additional Details --></label>
+            <section>Additional Details</section>
+        </sections>
+        <sections>
+            <label><!-- Billing Information --></label>
+            <section>Billing Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Event Logistics --></label>
+            <section>Event Logistics</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <label><!-- Brick and Mortar Checklist --></label>
+        <name>Brick_and_Mortar_Checklist</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Event Checklist --></label>
+        <name>Event_Checklist</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Dental Hygienist</fullName>
+        <default>false</default>
+        <label>Dental Hygienist</label>
+    </customValue>
+    <customValue>
+        <fullName>Emergency Medical Technician</fullName>
+        <default>false</default>
+        <label>Emergency Medical Technician</label>
+    </customValue>
+    <customValue>
+        <fullName>Medical Doctor</fullName>
+        <default>false</default>
+        <label>Medical Doctor</label>
+    </customValue>
+    <customValue>
+        <fullName>Nurse practitioner</fullName>
+        <default>false</default>
+        <label>Nurse practitioner</label>
+    </customValue>
+    <customValue>
+        <fullName>Physician assistant</fullName>
+        <default>false</default>
+        <label>Physician assistant</label>
+    </customValue>
+    <customValue>
+        <fullName>Registered Nurse</fullName>
+        <default>false</default>
+        <label>Registered Nurse</label>
+    </customValue>
+    <masterLabel>Medical Qualifications</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

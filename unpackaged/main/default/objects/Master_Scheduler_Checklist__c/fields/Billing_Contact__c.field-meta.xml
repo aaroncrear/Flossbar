@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Billing_Contact__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <externalId>false</externalId>
+    <label>Billing Contact</label>
+    <referenceTo>Contact</referenceTo>
+    <relationshipLabel>Master Scheduler Checklists (Billing Contact)</relationshipLabel>
+    <relationshipName>Master_Scheduler_Checklists1</relationshipName>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>

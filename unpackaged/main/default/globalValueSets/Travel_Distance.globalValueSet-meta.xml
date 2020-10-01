@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>20 miles or less</fullName>
+        <default>false</default>
+        <label>20 miles or less</label>
+    </customValue>
+    <customValue>
+        <fullName>50 miles or less</fullName>
+        <default>false</default>
+        <label>50 miles or less</label>
+    </customValue>
+    <customValue>
+        <fullName>100 miles or more</fullName>
+        <default>false</default>
+        <label>100 miles or more</label>
+    </customValue>
+    <masterLabel>Travel Distance</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

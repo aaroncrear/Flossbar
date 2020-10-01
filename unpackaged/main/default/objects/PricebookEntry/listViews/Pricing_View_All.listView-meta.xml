@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Pricing_View_All</fullName>
+    <columns>PRODUCT2.ACTIVE</columns>
+    <columns>PRODUCT.NAME</columns>
+    <columns>PRODUCT2.FAMILY_ENUM</columns>
+    <columns>PRODUCT2.DESCRIPTION</columns>
+    <columns>PRICEBOOK.NAME</columns>
+    <columns>PRODUCT.ACTIVE</columns>
+    <columns>PRODUCT.DEFAULT_PRICE</columns>
+    <filterScope>Everything</filterScope>
+    <label>Pricing - View All</label>
+</ListView>

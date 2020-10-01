@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>TIN__c</fullName>
+    <description>A tax identification number is a nine-digit ID that government authorities use to identify a business or individual. The tax identification number for an individual is called his Social Security number.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>A tax identification number is a nine-digit ID that government authorities use to identify a business or individual. The tax identification number for an individual is called his Social Security number.</inlineHelpText>
+    <label>TIN</label>
+    <precision>9</precision>
+    <required>false</required>
+    <scale>0</scale>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Number</type>
+    <unique>false</unique>
+</CustomField>

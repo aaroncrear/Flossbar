@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Will_work_events_outside_dental__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>This may be a superfluous field since we can check multiple specialties in the specialty picklist.</description>
+    <externalId>false</externalId>
+    <label>Will work events outside dental?</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Checkbox</type>
+</CustomField>

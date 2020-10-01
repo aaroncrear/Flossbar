@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Antibody, Antigen or Both --></label>
+        <name>Antibody_Antigen_or_Both__c</name>
+        <picklistValues>
+            <masterLabel>Antibody</masterLabel>
+            <translation><!-- Antibody --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Antigen</masterLabel>
+            <translation><!-- Antigen --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Both</masterLabel>
+            <translation><!-- Both --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

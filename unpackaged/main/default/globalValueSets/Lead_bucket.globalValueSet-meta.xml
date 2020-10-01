@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Business with Employees</fullName>
+        <default>true</default>
+        <label>Business with Employees</label>
+    </customValue>
+    <customValue>
+        <fullName>Healthcare Provider</fullName>
+        <default>false</default>
+        <label>Healthcare Provider</label>
+    </customValue>
+    <description>Are they a physician or a business entity interested in our services?</description>
+    <masterLabel>Lead bucket</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

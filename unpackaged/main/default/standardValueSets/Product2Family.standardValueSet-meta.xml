@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>None</fullName>
+        <default>false</default>
+        <label>None</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Biometrics</fullName>
+        <default>false</default>
+        <label>Biometrics</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Dental</fullName>
+        <default>false</default>
+        <label>Dental</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Flu Shot</fullName>
+        <default>false</default>
+        <label>Flu Shot</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Hearing</fullName>
+        <default>false</default>
+        <label>Hearing</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Vision</fullName>
+        <default>false</default>
+        <label>Vision</label>
+    </standardValue>
+    <standardValue>
+        <fullName>COVID19</fullName>
+        <default>false</default>
+        <label>COVID19</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Service Add-Ons</fullName>
+        <default>false</default>
+        <label>Service Add-Ons</label>
+    </standardValue>
+</StandardValueSet>

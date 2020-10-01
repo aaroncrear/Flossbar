@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Champion</fullName>
+        <default>false</default>
+        <label>Champion</label>
+    </customValue>
+    <customValue>
+        <fullName>Decision Maker</fullName>
+        <default>false</default>
+        <label>Decision Maker</label>
+    </customValue>
+    <customValue>
+        <fullName>Economic Buyer</fullName>
+        <default>false</default>
+        <label>Economic Buyer</label>
+    </customValue>
+    <customValue>
+        <fullName>Gatekeeper</fullName>
+        <default>false</default>
+        <label>Gatekeeper</label>
+    </customValue>
+    <customValue>
+        <fullName>Dentist</fullName>
+        <default>false</default>
+        <label>Dentist</label>
+    </customValue>
+    <customValue>
+        <fullName>Medical Assistant</fullName>
+        <default>false</default>
+        <label>Medical Assistant</label>
+    </customValue>
+    <customValue>
+        <fullName>Nurse</fullName>
+        <default>false</default>
+        <label>Nurse</label>
+    </customValue>
+    <customValue>
+        <fullName>Practice Owner</fullName>
+        <default>false</default>
+        <label>Practice Owner</label>
+    </customValue>
+    <customValue>
+        <fullName>Physician</fullName>
+        <default>false</default>
+        <label>Physician</label>
+    </customValue>
+    <customValue>
+        <fullName>State Dentist</fullName>
+        <default>false</default>
+        <label>State Dentist</label>
+    </customValue>
+    <description>What is the role of this person in the deal process? What role do they play in their business?</description>
+    <masterLabel>Lead/Contact Role</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

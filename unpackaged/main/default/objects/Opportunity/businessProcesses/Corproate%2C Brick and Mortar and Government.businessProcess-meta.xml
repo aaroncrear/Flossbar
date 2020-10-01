@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BusinessProcess xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Corproate%2C Brick and Mortar and Government</fullName>
+    <description>Used with the three referenced Opportunity record types</description>
+    <isActive>true</isActive>
+    <values>
+        <fullName>Contract Sent</fullName>
+        <default>false</default>
+    </values>
+    <values>
+        <fullName>Event Scheduled</fullName>
+        <default>false</default>
+    </values>
+    <values>
+        <fullName>Negotiating</fullName>
+        <default>false</default>
+    </values>
+    <values>
+        <fullName>No Contact Made</fullName>
+        <default>false</default>
+    </values>
+    <values>
+        <fullName>Not Interested</fullName>
+        <default>false</default>
+    </values>
+    <values>
+        <fullName>Proposal</fullName>
+        <default>false</default>
+    </values>
+</BusinessProcess>
